@@ -1,4 +1,7 @@
 # Java Lab 002: Stump the Chump and Date Display
+## My Edit Over Stump the Chump:
+
+It took me my second time. I ran the code on DCoder, and saw the error message, then, of course, fixed it. 
 
 ## Part 1: Stump the Chump
 
